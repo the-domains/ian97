@@ -1,0 +1,28 @@
+name: ian97
+favicon: null
+layout_spectrum: 0.06756373820826411
+typography_spectrum: 0.12156541459262371
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5923864690121263
+  lightness: 0.5854967175982893
+  saturation: 0.6377348129171878
+  rhythmicContrast: 0.3577986084856093
+purpose: []
